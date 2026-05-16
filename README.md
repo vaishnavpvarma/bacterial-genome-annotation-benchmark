@@ -1,7 +1,25 @@
 <div align="center">
 
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="160">
+<a href="https://www.imtech.res.in">
+<img src="assets/logos/csir_imtech_logo.png" width="130" alt="CSIR-IMTECH"/>
+</a>
+</td>
+<td align="center" width="500">
+
 # 🧬 Bacterial Genome Annotation Benchmark
 ### *A Case Study Using the Genome of* Thermodesulfobium narugense
+
+</td>
+<td align="center" width="160">
+<a href="https://www.alagappauniversity.ac.in">
+<img src="assets/logos/alagappa_university_logo.png" width="120" alt="Alagappa University"/>
+</a>
+</td>
+</tr>
+</table>
 
 **Comparative evaluation of DRAM · DFAST · Prokka · Bakta · RAST vs. NCBI-PGAP  
 with AlphaFold3-assisted novel gene discovery**
