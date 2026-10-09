@@ -628,7 +628,7 @@ upset(
 
 <div align="center">
 
-*Conducted at CSIR-Institute of Microbial Technology, Chandigarh, India*
+*Conducted at CSIR-Institute of Microbial Technology, Chandigarh, India* -
 *Post Graduate Training Program (PGTP) 2024*
 
 [![CSIR](https://img.shields.io/badge/CSIR-Council%20of%20Scientific%20%26%20Industrial%20Research-navy?style=flat-square)](https://www.csir.res.in)
