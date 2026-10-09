@@ -511,7 +511,7 @@ Department of Bioinformatics, Alagappa University, Karaikudi
 <table>
 <tr>
 <td width="120" align="center">
-<img src="https://www.imtech.res.in/storage/app/uploads/admin/staff/Srikrishna%20Subramanian_6613cd8e99aac.jpg" width="100" style="border-radius:8px" alt="Dr. Srikrishna Subramanian"/>
+<img src="assets/logos/dr_srikrishna_subramaniam_imtech.png" width="100" style="border-radius:8px" alt="Dr. Srikrishna Subramanian"/>
 </td>
 <td>
 
